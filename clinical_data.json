@@ -1,0 +1,642 @@
+{
+  "redflags": {
+    "title": "Red Flags & Safety Screening",
+    "subtitle": "Contraindications & Emergency Referrals",
+    "intro": "These conditions require immediate medical referral. Do not treat until cleared.",
+    "osteo_principles": [
+      "<strong>Do No Harm:</strong> Always screen VBI before C-spine manipulation.",
+      "<strong>Cauda Equina:</strong> A surgical emergency. Time is function.",
+      "<strong>Fractures:</strong> Use validated rules (Ottawa) to reduce unnecessary X-rays."
+    ],
+    "pathologies": [
+      {
+        "name": "Cauda Equina Syndrome",
+        "palpation": [
+          "Saddle Anesthesia (numbness inner thighs/genitals)",
+          "Bladder retention or incontinence"
+        ],
+        "mechanics": "Compression of distal nerve roots (L1-S5).",
+        "special_tests": [
+          "<strong>Dermatomes S4-S5:</strong> Check sensation.",
+          "<strong>DRE:</strong> Digital Rectal Exam (if qualified/appropriate)."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>NONE:</strong> Do not manipulate."
+          ],
+          "met": [
+            "<strong>NONE:</strong> Immediate ER referral."
+          ],
+          "neuro": [
+            "<strong>Document:</strong> Time of onset and neurological status."
+          ]
+        },
+        "patient_advice": "This is a medical emergency. You must go to the Emergency Room immediately to prevent permanent bladder or bowel paralysis."
+      },
+      {
+        "name": "Cervical Instability / VBI",
+        "palpation": [
+          "C2 spinous process tenderness",
+          "Lip/Tongue paresthesia",
+          "Dizziness (5 Ds)"
+        ],
+        "mechanics": "Alar/Transverse ligament rupture or Vertebrobasilar Insufficiency.",
+        "special_tests": [
+          "<strong>Sharp-Purser Test:</strong> Relocation of C1.",
+          "<strong>Alar Ligament Test:</strong> Side bend C2 stabilization.",
+          "<strong>VBI Test:</strong> Extension + Rotation (held 30s)."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Avoid:</strong> High Velocity Thrusts (HVT) or End-range rotation."
+          ],
+          "met": [
+            "<strong>Stabilization:</strong> Isometric neck strengthening only."
+          ],
+          "neuro": [
+            "<strong>Refer:</strong> Specialist orthopedist if instability suspected."
+          ]
+        },
+        "patient_advice": "We need to avoid aggressive movements of your neck today to ensure the safety of the blood vessels and ligaments supporting your head."
+      },
+      {
+        "name": "Deep Vein Thrombosis (DVT)",
+        "palpation": [
+          "Calf tenderness/warmth",
+          "Redness",
+          "Swelling"
+        ],
+        "mechanics": "Clot in deep vein. Risk of Pulmonary Embolism.",
+        "special_tests": [
+          "<strong>Well's Criteria:</strong> Clinical prediction rule.",
+          "<strong>Homan's Sign:</strong> (Low specificity, use with caution)."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Contraindicated:</strong> No massage to the limb."
+          ],
+          "met": [
+            "<strong>Avoid:</strong> Exercise until anticoagulated."
+          ],
+          "neuro": [
+            "<strong>Refer:</strong> Doppler Ultrasound immediately."
+          ]
+        },
+        "patient_advice": "The swelling and warmth in your leg needs to be checked by a doctor to rule out a clot before we can continue therapy."
+      }
+    ]
+  },
+  "pediatrics": {
+    "title": "Pediatric Conditions",
+    "subtitle": "Growth Plate & Developmental Issues",
+    "intro": "Children are not mini-adults. Pain is often related to growth spurts (apophysitis).",
+    "osteo_principles": [
+      "<strong>Growth Plates:</strong> The weakest link in the chain (weaker than ligament).",
+      "<strong>Flexibility vs Strength:</strong> Bones grow faster than muscles stretch.",
+      "<strong>Scoliosis:</strong> Screen during growth spurts (ages 10-14)."
+    ],
+    "pathologies": [
+      {
+        "name": "Osgood-Schlatter / Sinding-Larsen",
+        "palpation": [
+          "Tibial Tuberosity (Osgood)",
+          "Inferior Patellar Pole (Sinding)"
+        ],
+        "mechanics": "Traction apophysitis of Extensor mechanism due to tight Quads.",
+        "special_tests": [
+          "<strong>Resisted Knee Extension:</strong> Painful.",
+          "<strong>Ely's Test:</strong> Tight Rectus Femoris."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Soft Tissue Release:</strong> Quads (avoid bony prominence)."
+          ],
+          "met": [
+            "<strong>Rec Fem MET:</strong> Gentle lengthening."
+          ],
+          "neuro": [
+            "<strong>Load Management:</strong> Reduce jumping volume."
+          ]
+        },
+        "patient_advice": "This is 'growing pains' caused by the muscle pulling on the bone. Ice it after sports, and we will stretch the thigh muscles to reduce the tension."
+      },
+      {
+        "name": "Sever's Disease (Calcaneal Apophysitis)",
+        "palpation": [
+          "Heel tenderness (squeeze test)",
+          "Tight Calves"
+        ],
+        "mechanics": "Achilles pulling on calcaneal growth plate.",
+        "special_tests": [
+          "<strong>Squeeze Test:</strong> Medial/Lateral calcaneus.",
+          "<strong>Knee to Wall:</strong> Reduced DF."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Calf Massage:</strong> Release soleus/gastroc.",
+            "<strong>Heel Raise:</strong> In shoe (temporary)."
+          ],
+          "met": [
+            "<strong>Gastroc MET:</strong> Gentle stretching."
+          ],
+          "neuro": [
+            "<strong>Activity Mod:</strong> Reduce impact."
+          ]
+        },
+        "patient_advice": "Your heel bone is irritated by the tight calf muscle. A heel cup in your shoe and calf stretches will help it heal."
+      },
+      {
+        "name": "Scoliosis Screening",
+        "palpation": [
+          "Rib Hump",
+          "Shoulder height asymmetry",
+          "Pelvic obliquity"
+        ],
+        "mechanics": "Lateral curvature + Rotation of vertebrae.",
+        "special_tests": [
+          "<strong>Adam's Forward Bend Test:</strong> Look for rib hump.",
+          "<strong>Scoliometer:</strong> >5-7 degrees needs X-ray."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Myofascial Release:</strong> Concave side musculature."
+          ],
+          "met": [
+            "<strong>Schroth Method:</strong> 3D breathing/correction (refer if specialized)."
+          ],
+          "neuro": [
+            "<strong>Monitor:</strong> Rapid growth phases."
+          ]
+        },
+        "patient_advice": "We are monitoring the curve in your spine. Specialized exercises can help strengthen the muscles to support your posture."
+      }
+    ]
+  },
+  "geriatrics": {
+    "title": "Geriatric Conditions",
+    "subtitle": "Degenerative & Balance Issues",
+    "intro": "Focus on function, fall prevention, and managing degenerative changes.",
+    "osteo_principles": [
+      "<strong>Bone Density:</strong> Gentle techniques for Osteoporosis.",
+      "<strong>Circulation:</strong> Check distal pulses.",
+      "<strong>Stiffness:</strong> Mobilize to maintain function, not necessarily 'perfect' alignment."
+    ],
+    "pathologies": [
+      {
+        "name": "Falls Risk / Balance",
+        "palpation": [
+          "Ankle stiffness",
+          "Hip weakness"
+        ],
+        "mechanics": "Sensory decline (vision, vestibular, prop).",
+        "special_tests": [
+          "<strong>TUG (Timed Up & Go):</strong> >13.5s = High risk.",
+          "<strong>Berg Balance Scale:</strong> Comprehensive.",
+          "<strong>30s Sit to Stand:</strong> Leg strength."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Ankle Mobilization:</strong> Restore DF for balance strategies."
+          ],
+          "met": [
+            "<strong>Hip Abductor MET:</strong> Stability."
+          ],
+          "neuro": [
+            "<strong>Proprioception:</strong> Tai Chi / Single leg stand support."
+          ]
+        },
+        "patient_advice": "Improving your balance and leg strength is the best way to prevent falls and keep you independent at home."
+      },
+      {
+        "name": "Osteoporosis / Compression Fracture",
+        "palpation": [
+          "Spinous process tenderness (Thoracic)",
+          "Kyphosis"
+        ],
+        "mechanics": "Bone fragility. Anterior wedge fractures.",
+        "special_tests": [
+          "<strong>Wall Occiput Distance:</strong> Kyphosis measure.",
+          "<strong>Rib-Pelvis Distance:</strong> <2 fingers = fracture risk."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Gentle Extension Mob:</strong> Grade I/II only.",
+            "<strong>Avoid:</strong> Flexion manipulation!"
+          ],
+          "met": [
+            "<strong>Pectoral Stretch:</strong> Open posture."
+          ],
+          "neuro": [
+            "<strong>Weight Bearing:</strong> Walking/Sit-to-stand for bone health."
+          ]
+        },
+        "patient_advice": "We need to focus on 'standing tall'. Avoid bending forward at the waist to pick things up; use your legs instead to protect your spine."
+      }
+    ]
+  },
+  "cervical": {
+    "title": "Cervical Spine",
+    "subtitle": "Occipito-atlantal (C0-C1) to C7-T1",
+    "intro": "Neck pain requires clearing the VBI (Vertebrobasilar Insufficiency) and Alar ligaments first. Upper cervical dysfunction is a key driver of headaches.",
+    "osteo_principles": [
+      "<strong>Suboccipital Triangle:</strong> C1/C2 rotation is crucial (50% of all neck rotation). Dysfunction here causes tension headaches.",
+      "<strong>Sympathetic Ganglia:</strong> Superior Cervical Ganglion affects eyes/ears/balance.",
+      "<strong>Lower Cervical (C5-C7):</strong> Most common sites for disc herniation and radiculopathy."
+    ],
+    "pathologies": [
+      {
+        "name": "Cervical Radiculopathy",
+        "palpation": [
+          "Paraspinal spasm",
+          "Neural tenderness (brachial plexus)",
+          "First Rib elevation"
+        ],
+        "mechanics": "Nerve root compression (disc or osteophyte). Downstream paresthesia.",
+        "special_tests": [
+          "<strong>Wainner's Cluster:</strong> 1. Spurlings A, 2. Distraction Test, 3. ULNT 1, 4. Rotation < 60°.",
+          "<strong>Valsalva Maneuver:</strong> Increases intrathecal pressure."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Cervical Distraction:</strong> Manual traction in supine.",
+            "<strong>Lateral Glides (Neurodynamic):</strong> Opening the foramen."
+          ],
+          "met": [
+            "<strong>Upper Trapezius MET:</strong> Depress shoulder, side bend away.",
+            "<strong>Levator Scapulae MET:</strong> Nose to armpit."
+          ],
+          "neuro": [
+            "<strong>Median/Radial/Ulnar Sliders:</strong> Gentle flossing, do not aggravate."
+          ]
+        },
+        "patient_advice": "The nerve coming from your neck is pinched, sending pain to your arm. We will use gentle traction to open the space and 'floss' the nerve to reduce irritation."
+      },
+      {
+        "name": "Cervicogenic Headache",
+        "palpation": [
+          "Suboccipital trigger points",
+          "C2 Spinous Process tenderness",
+          "Trapezius hypertonicity"
+        ],
+        "mechanics": "Convergence of C1-C3 afferents with Trigeminal nerve (Trigeminocervical nucleus).",
+        "special_tests": [
+          "<strong>CFRT (Cervical Flexion Rotation Test):</strong> Gold standard for C1/C2 mobility.",
+          "<strong>Cranio-Cervical Flexion Test (CCFT):</strong> Deep neck flexor endurance."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Suboccipital Release:</strong> Inhibition pressure.",
+            "<strong>C1-C2 SNAGs:</strong> Self-sustained natural apophyseal glides."
+          ],
+          "met": [
+            "<strong>Suboccipital MET:</strong> Gentle 'chin tuck' against resistance."
+          ],
+          "neuro": [
+            "<strong>Greater Occipital Nerve Mob:</strong> Soft tissue release at the nuchal line."
+          ]
+        },
+        "patient_advice": "Your headache is coming from the stiff joints at the top of your neck. Loosening these muscles and joints will stop the referral of pain to your head."
+      }
+    ]
+  },
+  "thoracic": {
+    "title": "Thoracic Spine",
+    "subtitle": "T1 to T12 & Rib Cage",
+    "intro": "The T-spine is the 'stiff' link. Mobilizing the thorax often solves neck and low back pain.",
+    "osteo_principles": [
+      "<strong>Autonomic Nervous System:</strong> Sympathetic chain runs anterior to rib heads. T4 syndrome affects arm circulation.",
+      "<strong>Rib Mechanics:</strong> Pump handle (Upper) vs Bucket handle (Lower).",
+      "<strong>Regional Dependence:</strong> Poor T-spine extension leads to Shoulder Impingement."
+    ],
+    "pathologies": [
+      {
+        "name": "T4 Syndrome",
+        "palpation": [
+          "Stiffness at T2-T7",
+          "Prominent/Boggy spinous processes",
+          "Paravertebral thickness"
+        ],
+        "mechanics": "Sympathetic outflow dysfunction causing 'glove-like' numbness or cold hands.",
+        "special_tests": [
+          "<strong>T4 Palpation & PA Glide:</strong> Reproduces arm symptoms.",
+          "<strong>Slump Test:</strong> Often positive due to sympathetic tension."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>PA Mobilizations (Maitland):</strong> Central and Unilateral.",
+            "<strong>Screw Manipulation:</strong> Osteopathic high velocity thrust."
+          ],
+          "met": [
+            "<strong>Rib MET:</strong> Use respiration to correct inhalation/exhalation somatic dysfunction."
+          ],
+          "neuro": [
+            "<strong>Sympathetic Slump:</strong> Neural mobilization in sitting."
+          ]
+        },
+        "patient_advice": "Stiffness in your mid-back is irritating the nerves that control blood flow to your arms. Mobilizing the spine will restore normal circulation and sensation."
+      }
+    ]
+  },
+  "lumbar": {
+    "title": "Lumbar Spine",
+    "subtitle": "L1 to L5 & Sacrum",
+    "intro": "Load bearing. Screen for Red Flags (Cauda Equina) immediately.",
+    "osteo_principles": [
+      "<strong>Fryette's Laws:</strong> Type 1 (Neutral) vs Type 2 (Non-Neutral) mechanics.",
+      "<strong>Psoas Connection:</strong> The psoas originates from T12-L5; tightness compresses the lumbar spine.",
+      "<strong>Pelvic Coupling:</strong> L5 moves opposite to the Sacrum."
+    ],
+    "pathologies": [
+      {
+        "name": "Lumbar Disc Herniation",
+        "palpation": [
+          "Central PA stiffness",
+          "Muscle guarding (splinting)",
+          "Sciatic notch tenderness"
+        ],
+        "mechanics": "Posterior-Lateral derangement. Directional Preference (usually Extension) is key.",
+        "special_tests": [
+          "<strong>Straight Leg Raise (SLR):</strong> Neurogenic pain < 60°.",
+          "<strong>Slump Test:</strong> More sensitive than SLR.",
+          "<strong>Crossed SLR:</strong> Highly specific for large herniation."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>McKenzie Extension:</strong> Repeated extension in lying.",
+            "<strong>Lumbar Rotation Mob:</strong> Grade III/IV for pain gating."
+          ],
+          "met": [
+            "<strong>Psoas MET:</strong> Thomas test position.",
+            "<strong>Quadratus Lumborum MET:</strong> Side lying side-bending."
+          ],
+          "neuro": [
+            "<strong>Sciatic Nerve Floss:</strong> Pump the ankle in slump position."
+          ]
+        },
+        "patient_advice": "The disc is bulging backwards. We will use backward bending exercises to gently push the fluid back to the center and relieve pressure on the nerve."
+      },
+      {
+        "name": "Lumbar Stenosis",
+        "palpation": [
+          "Flat back posture",
+          "Tight hamstrings/hip flexors"
+        ],
+        "mechanics": "Narrowing of canal. Extension intolerant. 'Shopping Cart Sign' (relief in flexion).",
+        "special_tests": [
+          "<strong>Bicycle Test:</strong> Differentiates Neurogenic vs Vascular claudication.",
+          "<strong>Kemp's Test (Quadrant):</strong> Extension + Rotation causes local/referred pain."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Flexion Mobilization:</strong> Opening the facet joints.",
+            "<strong>Hip Mobilization:</strong> Reduce demand on spine."
+          ],
+          "met": [
+            "<strong>Hip Flexor Release:</strong> To allow neutral pelvis without lumbar extension."
+          ],
+          "neuro": [
+            "<strong>Tibial Nerve Floss:</strong> Address distal symptoms."
+          ]
+        },
+        "patient_advice": "The space for your nerves is narrow. Bending forward opens this space. We will stretch your hips so you can stand straighter without pinching the back."
+      }
+    ]
+  },
+  "shoulder": {
+    "title": "Shoulder Complex",
+    "subtitle": "GH, AC, SC, ST Joints",
+    "intro": "The 'Stable Base'. Always rule out C-Spine (C4-C6) referral.",
+    "osteo_principles": [
+      "Check T-spine Kyphosis.",
+      "Assess Thoracic Outlet.",
+      "Fascial continuity (Pecs/Neck)."
+    ],
+    "pathologies": [
+      {
+        "name": "Subacromial Impingement / RC",
+        "palpation": [
+          "Greater Tuberosity",
+          "Bicipital Groove",
+          "Pec Minor"
+        ],
+        "mechanics": "Anterior humeral glide, Scapular dyskinesis.",
+        "special_tests": [
+          "<strong>Neer's Test:</strong> Jamming tuberosity.",
+          "<strong>Hawkins-Kennedy:</strong> IR at 90°.",
+          "<strong>Empty Can:</strong> Supraspinatus."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Caudal Glide:</strong> Increase subacromial space.",
+            "<strong>T-Spine Mob:</strong> T3-T6 extension."
+          ],
+          "met": [
+            "<strong>Pec Minor MET:</strong> Retraction resistance.",
+            "<strong>Upper Trap MET:</strong> Depression."
+          ],
+          "neuro": [
+            "<strong>Median Nerve Floss:</strong> Waiter's tip."
+          ]
+        },
+        "patient_advice": "The tendon is getting pinched when you lift your arm. We need to 'set the shoulder blade' back and loosen the chest muscles to give the tendon more room to move."
+      },
+      {
+        "name": "Frozen Shoulder (Adhesive Capsulitis)",
+        "palpation": [
+          "Deltoid insertion",
+          "Capsular pattern (ER>Abd>IR)"
+        ],
+        "mechanics": "Global restriction. Compensatory hiking.",
+        "special_tests": [
+          "<strong>Shrug Sign:</strong> Hiking during abduction.",
+          "<strong>Coracoid Pain Test:</strong> Early freezing sign."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Spencer Technique:</strong> 7-stage osteopathic articulation.",
+            "<strong>Scapular Mob:</strong> Compensatory movement."
+          ],
+          "met": [
+            "<strong>Subscapularis MET:</strong> Isometric IR."
+          ],
+          "neuro": [
+            "<strong>Suprascapular Nerve Mob:</strong> Scapular retraction."
+          ]
+        },
+        "patient_advice": "The shoulder capsule has become tight and sticky. We will perform gentle, rhythmic movements to gradually stretch the capsule and restore motion."
+      },
+      {
+        "name": "Thoracic Outlet Syndrome (TOS)",
+        "palpation": [
+          "Scalene Triangle",
+          "1st Rib Elevation",
+          "Pec Minor insertion"
+        ],
+        "mechanics": "Neurovascular compression at Scalenes, Rib 1, or Pec Minor.",
+        "special_tests": [
+          "<strong>Adson's Test:</strong> Scalene focus.",
+          "<strong>Roos Test:</strong> EAST (3 mins)."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>1st Rib Depression:</strong> High velocity or oscillation.",
+            "<strong>Cervical Contralateral Glide:</strong> Open foramen."
+          ],
+          "met": [
+            "<strong>Scalene MET:</strong> Lat flex away, rotate towards."
+          ],
+          "neuro": [
+            "<strong>Ulnar Nerve Floss:</strong> 'Mask' position."
+          ]
+        },
+        "patient_advice": "Tight neck muscles are squeezing the nerves/blood vessels going to your arm. Stretching the neck and dropping the first rib will relieve the pressure."
+      }
+    ]
+  },
+  "elbow": {
+    "title": "Elbow Complex",
+    "subtitle": "Humeroulnar/radial",
+    "intro": "Victim of Shoulder/Wrist issues. Check C5-C7.",
+    "osteo_principles": [
+      "Carrying Angle.",
+      "Interosseous Membrane."
+    ],
+    "pathologies": [
+      {
+        "name": "Lateral Epicondylalgia",
+        "palpation": [
+          "Lat Epicondyle",
+          "ECRB belly",
+          "Radial Head (Posterior?)"
+        ],
+        "mechanics": "Wrist extensor overuse. Radial head hypomobility.",
+        "special_tests": [
+          "<strong>Cozen's:</strong> Resisted ext/radial dev.",
+          "<strong>Mill's:</strong> Passive stretch.",
+          "<strong>Maudsley's:</strong> Middle finger ext."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Radial Head Ant Glide:</strong> Correct posterior position.",
+            "<strong>Mill's Manip:</strong> HVT."
+          ],
+          "met": [
+            "<strong>Wrist Extensor MET:</strong> Isometric."
+          ],
+          "neuro": [
+            "<strong>Radial Nerve Floss:</strong> Tip waiter position."
+          ]
+        },
+        "patient_advice": "Overuse of the wrist muscles is pulling on the elbow. We will mobilize the elbow joint and strengthen the wrist muscles to handle the load."
+      },
+      {
+        "name": "Cubital Tunnel Syndrome",
+        "palpation": [
+          "Ulnar groove (Tinel's)",
+          "FCU arch",
+          "Medial Intermuscular Septum"
+        ],
+        "mechanics": "Ulnar nerve entrapment/traction. Valgus instability.",
+        "special_tests": [
+          "<strong>Tinel's Sign:</strong> Tap ulnar groove.",
+          "<strong>Elbow Flexion Test:</strong> Hold max flexion 60s."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Humeroulnar Distraction:</strong> Scoop scoop.",
+            "<strong>Soft Tissue Release:</strong> FCU origin."
+          ],
+          "met": [
+            "<strong>Wrist Flexor MET:</strong> Gentle isometric."
+          ],
+          "neuro": [
+            "<strong>Ulnar Nerve Floss:</strong> Eye mask position."
+          ]
+        },
+        "patient_advice": "The 'funny bone' nerve is irritated. Avoid leaning on your elbow and keeping it bent for long periods. Gliding exercises will help the nerve move freely."
+      }
+    ]
+  },
+  "wrist": {
+    "title": "Wrist & Hand",
+    "subtitle": "Carpal & Intrinsic",
+    "intro": "End effector. Dysfunctions reflect C-spine or carpal subluxation.",
+    "osteo_principles": [
+      "Carpal Rows (Lunate alignment).",
+      "Tunnel integrity."
+    ],
+    "pathologies": [
+      {
+        "name": "Carpal Tunnel Syndrome",
+        "palpation": [
+          "Thenar atrophy",
+          "Transverse Ligament",
+          "Lunate"
+        ],
+        "mechanics": "Median nerve compression. Check Double Crush.",
+        "special_tests": [
+          "<strong>Phalen's:</strong> Flexion hold.",
+          "<strong>Durkan's:</strong> Direct compression."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Lunate Mob:</strong> Volar/Dorsal.",
+            "<strong>Retinaculum Stretch:</strong> Spread pillars."
+          ],
+          "met": [
+            "<strong>Lumbricals MET:</strong> Intrinsic hand."
+          ],
+          "neuro": [
+            "<strong>Median Sliders:</strong> Head tilt + Wrist movement."
+          ]
+        },
+        "patient_advice": "The tunnel in your wrist is tight. We will stretch the ligament and mobilize the wrist bones to open up the tunnel and give the nerve more space."
+      },
+      {
+        "name": "De Quervain's Tenosynovitis",
+        "palpation": [
+          "1st Dorsal Compartment",
+          "Radial Styloid",
+          "APL/EPB Tendons"
+        ],
+        "mechanics": "Stenosing tenosynovitis. Repetitive ulnar deviation.",
+        "special_tests": [
+          "<strong>Finkelstein's Test:</strong> Thumb in fist, ulnar deviate."
+        ],
+        "treatment": {
+          "manual": [
+            "<strong>Mulligan MWM:</strong> Radial glide of carpus.",
+            "<strong>Scaphoid Mob:</strong> Rotational stiffness check."
+          ],
+          "met": [
+            "<strong>Thumb Abductor MET:</strong> Gentle resistance."
+          ],
+          "neuro": [
+            "<strong>Radial Nerve Floss:</strong> Focus on superficial branch."
+          ]
+        },
+        "patient_advice": "The tendon sheath at the base of your thumb is inflamed. Resting the thumb and gentle gliding of the wrist bones will reduce the friction."
+      }
+    ]
+  },
+  "hip": {
+    "title": "Hip & Pelvis",
+    "subtitle": "Iliofemoral & SIJ",
+    "intro": "Power generator. Rule out L-Spine (L2-S1).",
+    "osteo_principles": [
+      "Innominate Rotations (Ant/Post).",
+      "Sacral Torsion.",
+      "Psoas influence."
+    ],
+    "pathologies": [
+      {
+        "name": "FAI / Labral Pathology",
+        "palpation": [
+          "Anterior Joint Line",
+          "ASIS",
+          "TFL"
+        ],
+        "mechanics": "CAM/Pincer. Anterior pelvic tilt exacerbates.",
+        "special_tests": [
+          "<strong>FADIR:</strong> Flex/Add/IR (Impingement).",
+          "<strong>FAB
